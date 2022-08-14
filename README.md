@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Dewa Putra Hernanda
-- 👀 I am a student from ahmad dahlan university
+- 🐱‍👤 Hi, I’m Dewa Putra Hernanda
+- 🐱‍👓 I am a student from ahmad dahlan university
+- 🐱‍🏍 Currently learn node.js
 
 
 <p align="left">
