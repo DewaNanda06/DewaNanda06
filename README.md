@@ -1,6 +1,6 @@
 - 🐱‍👤 Hi, I’m Dewa Putra Hernanda
 - 🐱‍👓 I am a student from ahmad dahlan university
-- 🐱‍🏍 Currently learn node.js
+- 🐱‍🏍 Currently learn javascript 
 ***
 <p align="left">
 <a href="https://github.com/dewa-nanda">
