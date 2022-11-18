@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Learning about how to be a good software developer, write more readable and maintainable code!
-- ⚡ Fun fact: I love create unfinished side project 
+- ⚡ Fun fact: I love new things
