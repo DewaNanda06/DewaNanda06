@@ -8,7 +8,7 @@
 </p>
 
 ### I'm a Single Fighter Developer!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning what I want to learn and loves
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2023 Goals: Learning about how to be a good software developer, write more readable and maintainable code!
 - ⚡ Fun fact: I love new things
