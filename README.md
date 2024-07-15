@@ -10,7 +10,6 @@
 ### I'm a Junior Developer!
 - 🌱 I’m currently learning about web development
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2023 Goals: Learning about how to be a good software developer, write more readable and maintainable code!
 - ⚡ Fun fact: I love new things
 
 <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width="100%" height="10%">
