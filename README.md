@@ -1,13 +1,11 @@
-<h3 align="center" style="font-size:34px ">👋 Hi There 👋 <br> I'm Dewa Putra Hernanda</h3>
+<h1 align="center" style="font-size:34px ">👋 Hi There 👋 <br> I'm Dewa Putra Hernanda</h1>
 
----
 <p align="center">
   <a href="https://www.linkedin.com/in/dewa-putra-h/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:dewananda124@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
 <p align="center">🌱 I'm a <strong>Front-End Web Developer</strong> with a deep expertise in JavaScript, yet always open to exploring and mastering new technologies to expand my skill set and tackle diverse challenges.🌱</p>
-
 
 ---
 
