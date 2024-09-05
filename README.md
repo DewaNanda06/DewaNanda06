@@ -1,4 +1,4 @@
-## Hi Hallo, I'm Dewa Putra Hernanda - aka KET 👋
+## Hi Hallo, I'm Dewa Putra Hernanda
 
 <p align="left">
 <a href="https://github.com/dewa-nanda">
