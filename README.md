@@ -36,4 +36,4 @@
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,laravel,pinia,tailwind,materialui,bootstrap,css,html)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,notion,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,npm,notion)](https://skillicons.dev)
