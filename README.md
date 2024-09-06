@@ -13,10 +13,6 @@
   <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  width="75%">
 </p>
 
-## 📈 GitHub Stats
-![dewa-nanda's Stats](https://github-readme-stats.vercel.app/api?username=dewa-nanda&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-![dewa-nanda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dewa-nanda&theme=graywhite&hide_border=true)
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **software house**.
 - 🌱 Learning more about **Vue.js, React, and TypeScript**.
