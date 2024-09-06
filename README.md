@@ -14,10 +14,8 @@
 </p>
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dewa-nanda&show_icons=true&theme=radical" alt="Dewa Nanda GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dewa-nanda&theme=radical" alt="Dewa Nanda GitHub Streak" />
-</p>
+![dewa-nanda's Stats](https://github-readme-stats.vercel.app/api?username=dewa-nanda&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![dewa-nanda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dewa-nanda&theme=graywhite&hide_border=true)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **software house**.
@@ -31,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,laravel,pinia,tailwind,materialui,bootstrap,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,laravel,pinia,tailwind,materialui,bootstrap,html,css)](https://skillicons.dev)
 
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,npm,notion)](https://skillicons.dev)
