@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **software house**.
+- 🔭 I’m currently working on **geek garden software house**.
 - 🌱 Learning more about **Vue.js, React, and TypeScript**.
 - 💬 Ask me about **Front-End Development**, **JavaScript**, or anything tech-related.
 - ⚡ Fun fact: I enjoy music and exploring new places when I'm not coding.
