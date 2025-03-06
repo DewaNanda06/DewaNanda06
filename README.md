@@ -5,7 +5,7 @@
   <a href="mailto:dewananda124@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
-<p align="center">🌱 I'm a <strong>Front-End Web Developer</strong> with a deep expertise in JavaScript, yet always open to exploring and mastering new technologies to expand my skill set and tackle diverse challenges.🌱</p>
+<p align="center">🌱 I'm a <strong>Web Developer</strong> with a deep expertise in JavaScript, yet always open to exploring and mastering new technologies to expand my skill set and tackle diverse challenges.🌱</p>
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **geek garden software house**.
-- 🌱 Learning more about **Vue.js, React, and TypeScript**.
+- 🌱 Learning more about **Vue, React, and Express**.
 - 💬 Ask me about **Front-End Development**, **JavaScript**, or anything tech-related.
 - ⚡ Fun fact: I enjoy music and exploring new places when I'm not coding.
 
